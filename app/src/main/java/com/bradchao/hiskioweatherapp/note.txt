@@ -1,0 +1,2 @@
+CWB-E291D06C-CF52-470E-B20A-4D1C3257FEAE
+https://opendata.cwb.gov.tw/api/v1/rest/datastore/F-C0032-001?Authorization=CWB-E291D06C-CF52-470E-B20A-4D1C3257FEAE
